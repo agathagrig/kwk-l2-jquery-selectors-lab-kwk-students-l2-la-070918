@@ -12,7 +12,7 @@ function linkSelector() {
   return $("div#box4.box5 a");
 }
 function imageSelector() {
-  return $("img[alt='catsleeping']");
+  return $("img[alt='cat sleeping']");
 }
 function checkbroxInputSelecter() {
   
