@@ -5,7 +5,7 @@ function h1Selector() {
 }
 
 function liInO1Selector() {
-  
+  return $("ol>li")
 }
 
 function linkSelector() {
