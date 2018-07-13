@@ -4,7 +4,7 @@ function h1Selector() {
   return $("h1");
 }
 
-function liInO1Selector() {
+function liInOlSelector() {
   return $("ol>li");
 }
 
