@@ -14,6 +14,6 @@ function linkSelector() {
 function imageSelector() {
   return $("img[alt='cat sleeping']");
 }
-function checkbroxInputSelecter() {
-  return $('[type = "checkbox"]');
+function checkboxInputSelecter() {
+  return $('[type= "checkbox"]');
 }
